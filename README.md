@@ -56,7 +56,8 @@ The application uses the following transaction details:
 
 ## Project Structure
 ```text
-FraudShield AI/
+FraudShield AI
+|
 ├── fraudshield_model.h5
 ├── fraudshield_scaler.pkl
 ├── main.py

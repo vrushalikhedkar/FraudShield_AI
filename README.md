@@ -29,24 +29,32 @@ The application uses the following transaction details:
 - Online Transaction
 - International Transaction
 - Previous Transactions
-Models Used
+
+
+## Models Used
 Machine Learning
 - Logistic Regression
 - Random Forest
-Deep Learning
+
+
+## Deep Learning
 - Dense Neural Network
 - ReLU activation
 - Sigmoid activation
 - Adam optimizer
 - Binary Cross-Entropy loss
-Technologies Used
+
+
+## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - TensorFlow / Keras
 - Streamlit
-Project Structure
+
+
+## Project Structure
 FraudShield AI
 │
 ├── fraudshield_model.h5

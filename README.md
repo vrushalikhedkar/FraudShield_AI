@@ -62,18 +62,26 @@ FraudShield AI
 ├── main.py
 ├── fraudshield_dataset_v2.csv
 └── README.md
-How to Run
+
+
+## How to Run
 Install the required libraries:
 pip install pandas numpy scikit-learn tensorflow streamlit
-Run the Streamlit application:
+
+
+## Run the Streamlit application:
 python -m streamlit run main.py
 The application opens in the browser, where transaction details can be
 entered and checked.
-Prediction
+
+
+## Prediction
 The application returns one of two results:
 - ✅ Normal Transaction
 - 🚨 Fraudulent Transaction
-Project Goal
+
+
+## Project Goal
 The goal of this project is to demonstrate how Machine Learning and Deep
 Learning can be applied to transaction fraud detection and deployed
 through a simple interactive web application.

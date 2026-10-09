@@ -32,7 +32,7 @@ The application uses the following transaction details:
 
 
 ## Models Used
-Machine Learning
+## Machine Learning
 - Logistic Regression
 - Random Forest
 

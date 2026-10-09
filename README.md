@@ -85,3 +85,7 @@ The application returns one of two results:
 The goal of this project is to demonstrate how Machine Learning and Deep
 Learning can be applied to transaction fraud detection and deployed
 through a simple interactive web application.
+
+
+## Author
+***Vrushali V. Khedkar***

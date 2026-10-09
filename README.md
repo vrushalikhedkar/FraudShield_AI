@@ -55,12 +55,13 @@ The application uses the following transaction details:
 
 
 ## Project Structure
-FraudShield AI/
+```text FraudShield AI/
 ├── fraudshield_model.h5
 ├── fraudshield_scaler.pkl
 ├── main.py
 ├── fraudshield_dataset_v2.csv
 └── README.md
+```
 
 
 ## How to Run

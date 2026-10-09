@@ -66,11 +66,15 @@ FraudShield AI
 
 ## How to Run
 Install the required libraries:
+```bash
 pip install pandas numpy scikit-learn tensorflow streamlit
+```
 
 
 ## Run the Streamlit application:
+```bash
 python -m streamlit run main.py
+```
 The application opens in the browser, where transaction details can be
 entered and checked.
 
